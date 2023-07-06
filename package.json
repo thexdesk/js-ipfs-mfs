@@ -62,7 +62,7 @@
     "ipfs-multipart": "~0.2.0",
     "ipfs-unixfs": "~0.1.16",
     "ipfs-unixfs-exporter": "~0.38.0",
-    "ipfs-unixfs-importer": "~0.40.0",
+    "ipfs-unixfs-importer": "~0.45.0",
     "ipld-dag-pb": "~0.18.0",
     "joi-browser": "^13.4.0",
     "mortice": "^2.0.0",
